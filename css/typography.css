@@ -1,0 +1,19 @@
+#navigation li a{
+    font-size:14px;
+}
+article h1,section h1{
+    font-size:30px;
+}
+article p,section p{
+    font-size:13px;
+}
+#jay h1,#domsters h1{
+    font-size:24px;
+    font-weight:normal;
+}
+table{
+    font-size:13px;
+}
+dl{
+    font-size:13px;
+}

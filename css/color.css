@@ -1,0 +1,86 @@
+body{
+    background-color:#334;
+}
+header{
+    color:#ec8;
+    border-color:#667;
+}
+#navigation{
+    border-color:#667;
+}
+#navigation ul{
+    border-color:#99a;
+}
+#navigation li a:link,#navigation li a:visited{
+    color:#eef;
+    border-color:#99a;
+}
+#navigation li a:hover{
+    color:#445;
+    background-color:#eb6;
+}
+article,section{
+    color:#223;
+    background-color:#edc;
+}
+article{
+    border-color:#667;
+}
+#navigation a.here:link,#navigation a.here:hover,#navigation a.here:hover,#navigation a.here:active{
+    color:#eef;
+    background-color:#799;
+}
+article img{
+    border-color:#ba9;
+}
+th {
+    color: #edc;
+    background-color: #455;
+}
+tr td {
+    color: #223;
+    background-color: #eb6;
+}
+tr.odd td{
+    color: #223;
+    background-color:#ec8;
+}
+tr.highlight td{
+    color: #223;
+    background-color:#cba;
+}
+form input.placeholder{
+    color:grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
