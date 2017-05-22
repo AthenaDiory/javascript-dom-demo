@@ -1,6 +1,6 @@
 # javascript dom demo
 基于javascrip dom 开发的静态页面
-![image](https://github.com/AthenaDiory/javascript-dom-demo/blob/master/readmeImg/index.jpg)
+![image](https://github.com/AthenaDiory/javascript-dom-demo/blob/master/readmeImg/index.png)
 ![image](https://github.com/AthenaDiory/javascript-dom-demo/blob/master/readmeImg/about.jpg)
 ![image](https://github.com/AthenaDiory/javascript-dom-demo/blob/master/readmeImg/photo.png)
 ![image](https://github.com/AthenaDiory/javascript-dom-demo/blob/master/readmeImg/live.png)
